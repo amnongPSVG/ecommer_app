@@ -2,3 +2,10 @@ flutter_native_splash:
   color: "#FFFFFF"
   color_dark: "#272727"
   image: "assets/logos/t-store-light-logo-black.png"
+  image_dark: "assets/logos/t-store-light-logo-white.png"
+
+  andriod_12: 
+    color: "#FFFFFF"
+    color_dark: "#272727"
+    image: "assets/logos/t-store-light-logo-black.png"
+    image_dark: "assets/logos/t-store-light-logo-white.png"
